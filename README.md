@@ -1,5 +1,6 @@
 # FlowAI Landing Page
-
+Keep Your Team Aligned in Minutes with FlowAI
+Assign tasks, track progress, and keep everyone in sync—effortlessly, all in one place.
 A modern, responsive landing page for FlowAI built with Next.js, TypeScript, and Tailwind CSS.
 
 ## 🚀 Features
